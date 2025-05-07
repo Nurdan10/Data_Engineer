@@ -1,0 +1,1 @@
+Setze das ER-Modell der Nordwind Datenbank in ein Data Vault Modell um.

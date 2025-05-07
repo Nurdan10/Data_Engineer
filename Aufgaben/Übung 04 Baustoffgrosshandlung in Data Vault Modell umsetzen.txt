@@ -1,0 +1,1 @@
+Setze das ER-Modell der Baustoffgroßhandlung in ein Data Vault Modell um.

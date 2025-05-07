@@ -1,0 +1,1 @@
+Erstelle auf Basis des "ERM Ferienhausvermietung" ein Galaxy Schema.

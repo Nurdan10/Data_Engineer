@@ -1,0 +1,2 @@
+Übung 02
+Bestimme für eine Data Vault Modellierung die Hubs und Links beim ERM Ferienhaus.
